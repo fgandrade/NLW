@@ -16,5 +16,6 @@ Built project in Next Level Week event from Rocketseat.
 
 ## Contact
 
-contato@fgandrade-dev.com
-http://fgandrade-dev.com/
+contato@fgandrade-dev.com <br/>
+http://fgandrade-dev.com/ <br/>
+https://www.linkedin.com/in/felipegandradee/
